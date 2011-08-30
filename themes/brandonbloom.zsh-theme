@@ -1,5 +1,4 @@
 local default_user_name='brandon'
-local default_host='brandon-imac.local'
 
 local prompt_user="%{$fg[red]%}%n%{$reset_color%}"
 local prompt_host="%{$fg[green]%}%m%{$reset_color%}"
